@@ -22,4 +22,5 @@ buttonHide.addEventListener('click', () => {
    buttonHide.style.display = 'none';
    buttonShow.style.display = 'block';
 })
+
 /**____________________________SHOW/HIDDEN(table)_______________________________ */
