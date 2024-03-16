@@ -10,7 +10,7 @@ for (const i in photo) {
       let target = event.target;
       if (target.className != 'works__img') return;
       modalEl.setAttribute('src', `img/${i}.jpg`);
-      modal.style.display = 'block';
+      modal.style.display = 'flex';
       span.classList.toggle('_active');
       body.classList.toggle('_lock');
    })
