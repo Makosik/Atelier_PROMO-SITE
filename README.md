@@ -1,6 +1,14 @@
 <h1>Atelier_PROMO-SITE</hi>
 <h2> In this project, I studied native JS and submitting forms to the server using PHP.</h2>
 
+## Tech Stack
+<li>JavaScript</li>
+<li>SCSS</li>
+<li>CSS</li>
+<li>HTML</li>
+<li>PHP</li>
+</br>
+Also used API Yandex Map
 <h2>For desktop:</h2>
 
 ![Main](https://github.com/Makosik/Atelier_PROMO-SITE/assets/71659410/7af49e2f-b82d-455f-9441-b28ce7fbb745)
